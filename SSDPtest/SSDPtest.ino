@@ -5,8 +5,8 @@
 
 //WiFi Network credentials
 #ifndef STASSID
-#define STASSID "BezeqNGN_020486_2.4GHz_1_EXT"
-#define STAPSK  "happiness"
+#define STASSID "WIFI_SSID"
+#define STAPSK  "PASSWORD"
 #endif
 
 //SSDP defines
