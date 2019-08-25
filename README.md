@@ -11,7 +11,9 @@ This sample uses SSDP (Simple Service Discovery Protocol) to discover UPnP devic
 - Arduino IDE ESP Board Installation
 
 # Installation and Running
+
 *Arduino*
+
 1. Open the SSDPtest.ino Arduino sketch in Arduino IDE.
 2. Edit defines to fit your needs:
 
@@ -36,13 +38,13 @@ This sample uses SSDP (Simple Service Discovery Protocol) to discover UPnP devic
 4. You can flash a number of NodeMCU devices with different SSDP_MODELNUMBER or/and SSDP_SERIALNUMBER to identify them
 
 *Android*
-5. Open the android-upnp-discovery-sample project in Android Studio.
-6. Built it.
-7. Run it.
 
-8. Once the NodeMCU devices are powered connect your smartphone to the same WiFi network and run the upnp-discovery application.
-9. After the UPnP scanning process is finished you'll see the list of all NodeMCU devices.
-10. Clicking on a device in the list will open a beowser with the following address: http://_device_IP_/index.html
+1. Open the android-upnp-discovery-sample project in Android Studio.
+2. Built it.
+3. Run it.
+4. Once the NodeMCU devices are powered connect your smartphone to the same WiFi network and run the upnp-discovery application.
+5. After the UPnP scanning process is finished you'll see the list of all NodeMCU devices.
+6. Clicking on a device in the list will open a beowser with the following address: http://_device_IP_/index.html
 
 # Links
 https://github.com/custanator/android-upnp-discovery
