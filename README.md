@@ -48,5 +48,7 @@ This sample uses SSDP (Simple Service Discovery Protocol) to discover UPnP devic
 
 # Links
 https://github.com/custanator/android-upnp-discovery
+
 https://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol
+
 https://en.wikipedia.org/wiki/Universal_Plug_and_Play
